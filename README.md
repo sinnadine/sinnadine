@@ -10,3 +10,14 @@ Data Visualization: Tableau | Canva | PowerPoint | Executive Presentation
 Soft Skills: Agile | Fast Learning Skills
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nadzeya-sinchuk/)
+
+### My academic background
+[Projects](sinnadine/projects)
+
+[Awards](sinnadine/awards)
+
+[Implementations](sinnadine/implementation_acts)
+
+[Publications](sinnadine/publications)
+
+[Conferences and Presentations](sinnadine/conferences_and_presentations)
