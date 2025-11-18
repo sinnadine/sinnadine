@@ -12,7 +12,8 @@ Soft Skills: Agile | Fast Learning Skills
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nadzeya-sinchuk/)
 
 ### My academic background
-[Projects](projects)
+
+[Projects](projects/README.md)
 
 [Awards](sinnadine/awards)
 
