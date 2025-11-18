@@ -1,9 +1,12 @@
 ### About Me
+Data Analyst with 4+ years of experience in data collection, analysis, and visualization. Expertise in transforming raw datasets into actionable insights, optimising analytical workflows, and supporting decision-making through data-driven reporting. Skilled in SQL, R, Tableau, and Excel, with a strong background in dashboard development, statistical modelling. Proven ability to enhance data accuracy, streamline reporting processes, and deliver business value through clear, impactful analytics. 
 
-🔭 I’m working as a Data Analyst.
+### SKILLS
 
-🌱 I’m currently learning Advanced Data Analysis.
+Data Analysis: SQL | BigQuery | Git | R | Excel | VSCode | clean code | Jira | Confluence | Explorational data analysis | Dashboards | Reports 
 
-🛠️ Languages and Tools: SQL, R, Excel, Git
+Data Visualization: Tableau | Canva | PowerPoint | Executive Presentation
+
+Soft Skills: Agile | Fast Learning Skills
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nadzeya-sinchuk/)
