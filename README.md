@@ -13,7 +13,7 @@ Soft Skills: Agile | Fast Learning Skills
 
 ### My academic background
 
-[Projects](projects/README.md)
+[Projects](https://github.com/sinnadine/projects)
 
 [Awards](sinnadine/awards)
 
